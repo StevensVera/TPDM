@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TPDM_U1_Practica4</string>
+
+    <array name="lista">
+        <item>Imagen</item>
+        <item>Impuesto</item>
+        <item>Aceca de..</item>
+        <item>Salir</item>
+    </array>
+
+    <string-array name="spinner">
+        <item>Tanque1</item>
+        <item>Tanque2</item>
+        <item>Tanque3</item>
+        <item>Tanque4</item>
+    </string-array>
+
+    <string-array name="spinner2">
+        <item>ISR</item>
+        <item>IVA</item>
+        <item>IETU</item>
+    </string-array>
+</resources>
